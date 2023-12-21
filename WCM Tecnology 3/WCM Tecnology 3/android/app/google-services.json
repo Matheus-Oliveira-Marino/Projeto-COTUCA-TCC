@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640845092407",
+    "project_id": "wcm-tecnology",
+    "storage_bucket": "wcm-tecnology.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640845092407:android:b79f412c778dd7cf2f91b2",
+        "android_client_info": {
+          "package_name": "com.example.teste_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640845092407-nn0tktchdku98t9jurs6856p7ncvaekk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCKw2uG89m_34l3BYPLLjsA2X_FgOhY3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640845092407-nn0tktchdku98t9jurs6856p7ncvaekk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
