@@ -1,4 +1,4 @@
-Projeto de TCC executado no Colégio Técnico de Campinas - COTUCA, utilizando tecnologia para redução do consumo de água no planeta, bem como realizar o gerenciamento do mesmo de forma inteligente.
+Projeto de TCC desenvolvido no Colégio Técnico de Campinas - COTUCA, utilizando tecnologia para redução do consumo de água no planeta, bem como realizar o gerenciamento do mesmo de forma inteligente.
 
 O projeto foi construído utilizando dispositivos eletroeletrônicos, sendo o microcontrolador o ESP32, e foi utilizada a programação em C para controle de todo o processo de cada componente. Foi desenvolvido também um aplicativo mobile(IOS e Android) para controle mais rigoroso do usuário quanto ao consumo de água de sua residência, estabelecimento, etc. A linguagem utilizada para o aplicativo foi o Dart, e também foi utilizado algumas bibliotecas para que fosse desenvolvido o projeto com mais precisão: 
 
