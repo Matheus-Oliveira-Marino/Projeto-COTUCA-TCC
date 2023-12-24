@@ -1,7 +1,0 @@
-https://www.nexusmods.com/nioh2/mods/92?tab=description
-
-Update: Added a new version that makes horns purple to differentiate whether mods are on or not.
-
-Remove the "MOD ENABLER" text on the logo when using the Mod Enabler.
-
-Installation: Drag & Drop on your Nioh 2 Directory. Overwrite when prompt.

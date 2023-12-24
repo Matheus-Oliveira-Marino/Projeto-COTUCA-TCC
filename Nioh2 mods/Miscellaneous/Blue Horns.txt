@@ -1,9 +1,0 @@
-https://www.nexusmods.com/nioh2/mods/286?tab=files&file_id=1904
-
-Installation:
-1. install Mod Enabler https://www.nexusmods.com/nioh2/mods/18
-2. extract zip to mods folder
-
-If you don't want the body color changed, delete 'bodyglow.ini'. You can also delete the numbered horn .ini files to revert specific horns back to default.
-
-Made using an edited version of DarkStarSword's 3DMigoto plugin for Blender

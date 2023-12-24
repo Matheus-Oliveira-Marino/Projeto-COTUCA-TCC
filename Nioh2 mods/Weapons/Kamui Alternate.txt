@@ -1,9 +1,0 @@
-https://www.nexusmods.com/nioh2/mods/283?tab=files&file_id=1895
-
-Installation:
-1. install Mod Enabler https://www.nexusmods.com/nioh2/mods/18
-2. extract zip to mods folder
-
-Bug: The flames and elemental enchantment effects will follow the original curved blade shape. If you want the original shape back, open main.ini and change "global $mod_kamuialternate_straighten" to 0.
-
-Made using an edited version of DarkStarSword's 3DMigoto plugin for Blender

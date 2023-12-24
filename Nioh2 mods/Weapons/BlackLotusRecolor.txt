@@ -1,8 +1,0 @@
-https://www.nexusmods.com/nioh2/mods/102?tab=description
-
-REQUIREMENT:
-Mod Enabler - by Anikachan
-Installation:
--Download the mod and unzip
--Put the folder inside the Mods folder in Nioh 2 Complete Edition directory.
--Start the game or press F10 if you already running the game.
