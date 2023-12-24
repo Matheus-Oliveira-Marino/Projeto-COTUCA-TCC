@@ -1,0 +1,3 @@
+https://www.nexusmods.com/nioh2/mods/177?tab=files
+
+Replace the file in the 01_Shinobi Robes folder with the one inside the zip.

@@ -1,0 +1,5 @@
+https://www.nexusmods.com/nioh2/mods/383?tab=files
+
+USE THIS IF YOU ARE USING "BLACK/GRAY BODY COLOR"
+just download this file then go to your nioh2 directory in mods folder and drop it INSIDE "body" folder
+Fixes issue with the legs for brute/feral male and female having default legs color instead of black

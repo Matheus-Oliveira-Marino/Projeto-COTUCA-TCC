@@ -1,0 +1,41 @@
+https://www.nexusmods.com/nioh2/mods/369?tab=files&file_id=2404
+
+Remake of my old sohayamaru weapon mod from here that i made 2 years ago.
+
+
+-------------------------------------------------------------
+Comes with 2 versions :
+
+-With Glow
+-Without Glow
+
+NOTE : USE ONLY ONE!
+-------------------------------------------------------------
+
+Replaces Usumidori
+
+
+
+i tried to make it similar to original sohayamaru from the game, don't just rely on the images because the sword might look different in each map (raining-night maps/ sunny-foggy maps/etc) but that's only because the lighting effects.
+
+snakegaidenx already made a sohayamaru mod in here , so , just use whichever you want , i just made this mod for a request and also because that old sohayamaru weapon mod i made wasn't good-looking so i wanted to give it another try but from scratch.
+
+if you have any questions about modding or having a request or etc , you can contact me on :
+Discord : {Kojiro}#1828
+NEW DISCORD : kojiro1234541
+Steam : Kojiro﻿
+﻿
+
+
+enjoy.
+
+
+INSTALLATION :
+
+first , you need to download nioh 2 MOD enabler from here
+if you have the MOD enabler already﻿ , you just need to download this mod's file , then extract it and copy the folder to your nioh 2 mods folder.
+(with MOD enabler , press F2 in game to turn off/on mods and press F10 to reload all mods)
+
+UNINSTALL :
+
+add DISABLED next to the folder name to disable it or just delete the folder.

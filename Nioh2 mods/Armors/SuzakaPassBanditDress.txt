@@ -1,0 +1,74 @@
+https://www.nexusmods.com/nioh2/mods/197
+
+Items that got replaced by this mod :
+
+Okatsu's Headdress  - (Shrine Maiden's Headpiece)
+Okatsu's Body Outfit -  (Platemail Cuirass)
+Okatsu's Gloves -  (Mataza's Gauntlets)
+Okatsu's Pants -  (Governor's Waistguard)
+Okatsu's Boots -  (Platemail Greaves)
+
+Okatsu's Sword - (Haccho Nenbutsu)
+
+-----You can also check the images to see the replaced items-----
+
+
+RECOLORS :
+currently there are 10 recolors , for both outfit and the weapon :
+1-Black
+2-Cyan
+3-Grey
+4-Green
+5-Orange
+6-Pink
+7-Purple
+8-Red
+9-White
+10-Yellow
+
+How to add wished colors to the outfit? download the texture colors file and drop them in the main folder , "weapon" textures should go in "Okatsu_Weapon" folder and "outfit" textures should go in "Okatsu_Outfit" folder
+
+Shiny effects works with ALL colors.
+
+Also you can customize your weapon/outfit colors separate , for example , Red Outfit with Black Weapon
+
+
+Notes :
+
+
+1- This Outfit is useable for female only , but the weapon can be used as both male and female
+
+2- Weapon's size doesn't affect their attack range
+
+3- I highly recommend using the full outfit set , combining it with different armors parts might not look good most of the times
+
+4-  due to some issues , i had to include okatsu's legs , the legs are part of Okatsu's body so... their color won't change if you change your character's skin color , but i can edit it for you if you want , also you can do it too by just editing the "Okatsu.dds" file
+
+5- both weapon and armor have "Shiny/Oily Effects" as option which u can activate by placing the "Okatsu222.dds" file from the "Shiny/Oily" folder to the main folder
+
+6- Cyan color of the sword can't use "Shiny/Oily Effects"
+
+7- check the images to see how options affect the outfit
+
+8- color files only include the textures , you will need to download the main file in order to use the color textures
+
+9- that's all , if you have any problem/question about my mods or even asking for commission , please let me know ,
+Discord : {Kojiro}#1828
+NEW DISCORD : kojiro1234541
+
+
+
+
+if you like to support/donate for any reason , you can send steam gift cards to here
+
+
+
+INSTALLATION :
+
+first , you need to download nioh 2 MOD enabler from here
+if you have the MOD enabler already﻿ , you just need to download the file , then extract it and copy the folder to your nioh 2 mods folder
+(with MOD enabler , press F2 in game to turn off/on mods and press F10 to reload all mods)
+
+UNINSTALL :
+
+add DISABLED next to the folder name to disable it or just delete the folder.

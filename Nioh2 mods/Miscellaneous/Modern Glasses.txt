@@ -1,0 +1,10 @@
+https://www.nexusmods.com/nioh2/mods/114?tab=files&file_id=553
+
+Installation:
+1. install Mod Enabler https://www.nexusmods.com/nioh2/mods/18
+2. extract zip to mods folder
+
+If the mod doesn't show up:
+- set texture quality to high
+
+Should work with motion blur and DLSS.
