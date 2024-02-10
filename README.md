@@ -24,4 +24,6 @@ O projeto foi construído utilizando dispositivos eletroeletrônicos, sendo o mi
 * firebase_auth --> Permite a autenticação de usuários, podendo realizar o cadastro, login e geração de UID para cada usuário;]
 
 Imagens:[clique aqui](/Imagens/)
-   A documentação do projeto pode ser encontrado [aqui](/Documentação/Racionamento%20Inteligente%20de%20Água.pdf)
+
+
+A documentação do projeto pode ser encontrado [aqui](/Documentação/Racionamento%20Inteligente%20de%20Água.pdf)
